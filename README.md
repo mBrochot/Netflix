@@ -4,9 +4,13 @@
 		alt="Netflix"
 		src="https://raw.githubusercontent.com/mBrochot/Netflix/master/src/images/netflixLogo.png">
 </h1>
+
 <h3 align="center">
 	Replica of the Netflix Homepage
 </h3>
+
+See demo : https://netfliix.netlify.app/
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/mBrochot/Netflix/master/src/images/capture.png">
 </p>
